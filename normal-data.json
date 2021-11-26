@@ -1,0 +1,74 @@
+[
+  {
+    "first_name": "Kambiz",
+    "last_name": "Hematti",
+    "birth": "17/02/2009",
+    "gender": "M",
+    "is_married": "False",
+    "phone": "+989121234343"
+  },
+  {
+    "first_name": "Soraya",
+    "last_name": "Afshani",
+    "birth": "27/05/2002",
+    "gender": "F",
+    "is_married": "False",
+    "phone": "+989129876453"
+  },
+  {
+    "first_name": "Hengameh",
+    "last_name": "Baghaii",
+    "birth": "10/02/2010",
+    "gender": "F",
+    "is_married": "False",
+    "phone": "+989329871222"
+  },
+  {
+    "first_name": "Anooshirvan",
+    "last_name": "Farzin",
+    "birth": "21/09/2010",
+    "gender": "M",
+    "is_married": "False",
+    "phone": "+989198798876"
+  },
+  {
+    "first_name": "Heshmat",
+    "last_name": "Pakdel",
+    "birth": "12/05/2010",
+    "gender": "M",
+    "is_married": "False",
+    "phone": "+989126528766"
+  },
+  {
+    "first_name": "Zamani",
+    "last_name": "Shadmehr",
+    "birth": "13/03/2009",
+    "gender": "M",
+    "is_married": "False",
+    "phone": "+989355674531"
+  },
+  {
+    "first_name": "Mojtaba",
+    "last_name": "Soleymani",
+    "birth": "14/03/2002",
+    "gender": "M",
+    "is_married": "False",
+    "phone": "+989145416786"
+  },
+  {
+    "first_name": "Nima",
+    "last_name": "Foroutan",
+    "birth": "02/12/2003",
+    "gender": "M",
+    "is_married": "False",
+    "phone": "+989334578123"
+  },
+  {
+    "first_name": "Mohammad Reza",
+    "last_name": "Foroutan",
+    "birth": "16/01/1998",
+    "gender": "M",
+    "is_married": "False",
+    "phone": "+989382546785"
+  }
+]
